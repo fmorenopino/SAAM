@@ -1,0 +1,23 @@
+{
+    "learning_rate": 1e-3,
+    "batch_size": 20,
+    "lstm_layers": 3,
+    "num_epochs": 2000,
+    "filtering_window": 100,
+    "train_window": 200,
+    "test_window": 200,
+    "predict_start": 150,
+    "test_predict_start": 150,
+    "predict_steps": 50,
+    "num_class": 370,
+    "cov_dim": 0,
+    "lstm_hidden_dim": 10,
+    "embedding_dim": 20,
+    "sample_times": 200,
+    "lstm_dropout": 0.1,
+    "predict_batch": 20,
+    "NFFT": 200,
+    "fs": 100,
+    "plots_spectral_every_x_epochs": 50,
+    "evaluate_every_x_epochs": 50
+}
