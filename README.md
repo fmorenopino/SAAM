@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/377461790.svg)](https://zenodo.org/badge/latestdoi/377461790)
 
-This repository contains the Pytorch implementation of the Spectral Attention Autoregressive Model (SAAM) proposed in the paper 'Deep Autoregressive Models with Spectral Attention'.
+This repository contains the Pytorch implementation of the Spectral Attention Autoregressive Model (SAAM) proposed in the paper 'Deep Autoregressive Models with Spectral Attention'. Pre-print is available on arXiv: https://arxiv.org/abs/2107.05984.
 
 ## Structure.
 
