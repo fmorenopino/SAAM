@@ -4,7 +4,7 @@
 
 This repository contains the Pytorch implementation of the Spectral Attention Autoregressive Model (SAAM) proposed in the paper 'Deep Autoregressive Models with Spectral Attention'.
 
-Please, if you use this code, cite the following [paper](https://arxiv.org/abs/2107.05984):
+Please, if you use this code, cite the [arXiv pre-print](https://arxiv.org/abs/2107.05984):
 ```
 @article{moreno2021deep,
   title={Deep Autoregressive Models with Spectral Attention},
